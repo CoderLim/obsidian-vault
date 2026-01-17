@@ -15,6 +15,7 @@
   "autoPull": true,
   "autoPush": true,
   "syncInterval": 5,
-  "gitPath": "git",
-  "diff": []
+  "gitPath": "/usr/bin/git",
+  "diff": [],
+  "lastSave": 0
 }
