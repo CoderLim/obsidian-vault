@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Git-配置指南1111.md",
+                "file": "Obsidian-Git-配置指南1112.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian-Git-配置指南1111"
+              "title": "Obsidian-Git-配置指南1112"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Obsidian-Git-配置指南"
             }
+          },
+          {
+            "id": "66fd304ec41c7d7d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "500781cae5ba4ab0",
   "lastOpenFiles": [
-    "测试笔记.md",
-    "Obsidian-Git-配置指南1111.md"
+    "Pasted image 20260117153352.png",
+    "x-posts/@AlchainHust-2026-01-09.md",
+    "Obsidian-Git-配置指南1112.md",
+    "测试笔记.md"
   ]
 }
