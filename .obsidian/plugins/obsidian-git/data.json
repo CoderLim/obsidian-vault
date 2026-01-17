@@ -1,0 +1,20 @@
+{
+  "autoCommitInterval": 5,
+  "autoPullInterval": 10,
+  "autoPushInterval": 15,
+  "autoCommitMessage": "auto-commit",
+  "autoBackupInterval": 60,
+  "commitMessage": "auto-commit",
+  "commitMessageSuccess": "auto-commit: sync success",
+  "commitMessageOnAutoBackup": "auto-backup",
+  "autoPullAfterPush": true,
+  "disablePush": false,
+  "pullOnStartup": true,
+  "pushOnStartup": false,
+  "autoCommit": true,
+  "autoPull": true,
+  "autoPush": true,
+  "syncInterval": 5,
+  "gitPath": "git",
+  "diff": []
+}
