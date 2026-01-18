@@ -61,69 +61,207 @@ Please use nano banana pro to create illustration based on input provided.
 
 ---
 
-## 3
+## 3. 涂色页 (Coloring Page)
 
-**效果图**：
-![[images/3-coloring-1.jpg]]
-![[images/3-coloring-2.jpg]]
-![[images/3-coloring-3.jpg]]
-![[images/3-coloring-4.jpg]]
-## 4
+**作用**：为儿童创建涂色页插图
 
-**效果图**：
-![[images/4-home-office-1.jpg]]
-![[images/4-home-office-2.jpg]]
-## 5
+**提示词**：
+```
+nano banana prompt
 
-**效果图**：
-![[images/5-cyber-1.jpg]]
-![[images/5-cyber-2.jpg]]
-![[images/5-cyber-3.jpg]]
-![[images/5-cyber-4.jpg]]
-![[images/5-cyber-5.jpg]]
-![[images/5-cyber-6.jpg]]
-## 6
+This illustration is intended for children to use as a coloring page (you may adjust or simplify the elements as needed). The generated content can be provided either as a clear written description or as a small reference image to guide the child's coloring.
 
-**效果图**：
-![[images/6-chibi-1.jpg]]
-![[images/6-chibi-2.jpg]]
-![[images/6-chibi-3.jpg]]
-![[images/6-chibi-4.jpg]]
-![[images/6-chibi-5.jpg]]
-![[images/6-chibi-6.jpg]]
-![[images/6-chibi-7.jpg]]
-![[images/6-chibi-8.jpg]]
-![[images/6-chibi-9.jpg]]
-## 7
+---- Prompt ----
 
-**效果图**：
-![[images/7-travel-1.jpg]]
-![[images/7-travel-2.jpg]]
-![[images/7-travel-3.jpg]]
-![[images/7-travel-4.jpg]]
-![[images/7-travel-5.jpg]]
-## 8
+A black-and-white line art coloring illustration, designed for direct printing on standard 8.5×11 inch paper with no page borders. The overall style is clean and simple, using smooth, clear black outlines with no shading, no grayscale, and no color fill. The background should remain pure white for easy coloring.
 
-**效果图**：
-![[images/8-comic-1.jpg]]
-![[images/8-comic-2.jpg]]
-## 9
+[For users who may need guidance, please include a small full-color reference version of the illustration in the bottom-right corner.]
 
-**效果图**：
-![[images/9-calendar-1.jpg]]
-![[images/9-calendar-2.jpg]]
-![[images/9-calendar-3.jpg]]
-![[images/9-calendar-4.jpg]]
-![[images/9-calendar-5.jpg]]
-## 10
+Target audience: [children aged 6–9.]
 
-**效果图**：
-![[images/10-gongbi-1.jpg]]
-![[images/10-gongbi-2.jpg]]
-![[images/10-gongbi-3.jpg]]
-![[images/10-gongbi-4.jpg]]
-![[images/10-gongbi-5.jpg]]
-![[images/10-gongbi-6.jpg]]
+Scene description:
+referencing the attached image or [A unicorn strolling across a grassy meadow in a forest, under bright sunshine with blue skies and fluffy white clouds.]
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1996046180787065233)
+
+---
+
+## 4. 家庭办公室 3D 等距插图 (3D Home Office)
+
+**作用**：生成一个 3D 等距彩色插图，展示在家工作的场景
+
+**提示词**：
+```
+nana banana pro
+
+--- Prompt ---
+
+Based on you know about me, generate a 3D isometric colored illustration of me working from home, filled with various interior details. The visual style should be rounded, polished, and playful. --ar 1:1
+
+---
+
+[Additional details: a bichon frise and 3 monitors]
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1995944319677554985)
+
+---
+
+## 5. X 档案到赛博风格社交应用界面 (Cyber Aesthetic Profile)
+
+**作用**：将你的 X 档案转换为赛博美学未来主义社交应用界面
+
+**提示词**：
+```
+nano banana prompt
+
+Convert your X profile to a cyber-aesthetic futuristic social-app interface.
+
+Take a screenshot with your X profile, and send it to Gemini/nano banana pro with the prompt
+
+--- Prompt ---
+
+A 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is holding a vertical, iPhone-sized, borderless acrylic card, taking up most of the frame. The card displays a social media profile interface with no banners or background images. Its smooth, rounded edges emit a soft neon glow in blue, pink, and purple gradients.
+
+The background is dark and blurred, emphasizing the glowing edges; light reflections on the fingers feel cinematic and atmospheric, creating a high-tech holographic mood. The card surface is crystal-clear, and profile details appear almost engraved, showing only the information from the reference image.
+
+Displayed in this exact order:
+- Profile avatar (centered)
+- Name + blue verification badge (centered)
+- Username with "@" (under name)
+- Bio / description text (small)
+- Follow count (small number)
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1995633652139442373)
+
+---
+
+## 6. 3D Q 版微缩概念店 (3D Chibi Concept Store)
+
+**作用**：生成 3D Q 版风格微缩概念店
+
+**提示词**：
+```
+nano banana prompt
+
+3D chibi-style miniature concept store of {Brand Name}
+
+--- Prompt ---
+
+3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
+
+Brand name: Starbucks
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1995190286775881780)
+
+---
+
+## 7. 儿童蜡笔旅行日记 (Crayon Travel Journal)
+
+**作用**：生成充满童趣、儿童蜡笔风格的旅行日记插图
+
+**提示词**：
+```
+nano banana prompt
+
+Kids' Crayon Travel Journal Illustration Prompt
+
+This prompt generates a vibrant, child-like crayon-style vertical (9:16) travel-journal illustration for a {City Name} trip, automatically creating a winding route with daily recommended attractions, cute doodles, local landmarks, foods, and playful handwritten notes. The tone is warm, fun, and full of childlike curiosity.
+
+--- Prompt ---
+
+Please create a vibrant, child-like crayon-style vertical (9:16) illustration titled "{City Name} Travel Journal."
+
+The artwork should look as if it were drawn by a curious child using colorful crayons, featuring a soft, warm light-toned background (such as pale yellow), combined with bright reds, blues, greens, and other cheerful colors to create a cozy, playful travel atmosphere.
+
+I. Main Scene: Travel-Journal Style Route Map
+
+In the center of the illustration, draw a "winding, zigzagging travel route" with arrows and dotted lines connecting multiple locations. The route should...
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1994908289813880915)
+
+---
+
+## 8. 四格漫画 (Four-panel Comic)
+
+**作用**：创建 "Out the Window" 梗风格四格漫画
+
+**提示词**：
+```
+经典的"Out the Window" Meme 四格漫画竖版布局，标题在漫画顶部居中，背景为现代办公会议室场景，风格简洁、幽默、清晰易懂，所有人物均以卡通风格表现，适合用于网络传播。
+
+### 标题（居中）：
+《AI 自媒体如何吸引流量？》（中文，加粗）
+
+### 人物设定：
+- Boss: 亚洲男性，身穿西装，发型整齐
+- Employee: 年轻技术员工，戴眼镜，表情生动
+
+### 每格内容：
+第一格：老板提问 - 员工认真回答
+第二格：员工展示AI工具 - 老板思考
+第三格：老板拍板叫好 - 员工开心
+第四格：全员点赞转发 - 暴涨流量
+
+### 视觉风格：
+- 简洁线条，清晰色彩
+- 人物表情夸张，突出喜剧效果
+- 背景简单，突出主体
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1994311203972112653)
+
+---
+
+## 9. 可爱时尚日历插图 (Cute Calendar)
+
+**作用**：创建可爱、时尚的日历插图
+
+**提示词**：
+```
+nana banana pro Prompt
+
+(optional: add your city/language/date at the bottom)
+
+----
+
+Please create a cute, stylish calendar illustration in a vertical (9:16) layout featuring a fresh, bright, hand-drawn style:
+
+Illustration Requirements:
+- The main character is a young, fashionable female with a cute and lively watercolor or hand-drawn texture, vibrant yet soft colors.
+- Character features include large eyes, rounded rosy cheeks, and bold, fashionable accessories (e.g., sunglasses, hoop earrings, headscarves, headbands, bows, knit hats, etc.). Clothing should be bright, with dynamic and playful poses. Proportions may be slightly exaggerated (e.g., larger head, slender waist).
+- Outfit and accessories must reflect seasonal elements, holidays, recommended activities ("auspicious items"), or distinctive local characteristics based on user's location and input. Outfit description: [{Character Outfit Description}]
+- Character positioned centrally or slightly right-aligned to leave ample
+...
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1993754650336428422)
+
+---
+
+## 10. 传统中国工笔水墨彩绘 (Chinese Gongbi Painting)
+
+**作用**：传统中国工笔水墨彩绘
+
+**提示词**：
+```
+nano banana pro prompt:
+
+A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds.
+
+She is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains.
+
+In the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
+```
+
+**效果图**：[查看原推文](https://x.com/dotey/status/1992450418291466517)
+
+---
+
 ## 11. 古今混搭幽默水墨插画 (Mix-era Ink Painting)
 
 **作用**：绘制古今混搭幽默水墨插画
