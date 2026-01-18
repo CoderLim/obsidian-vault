@@ -1,0 +1,16 @@
+# Prompt 17: Cross ages (6 images)
+curl -L -o "17-cross-ages-1.jpg" "https://pbs.twimg.com/media/G7g2axeWkAASDQN?format=jpg&name=medium"
+curl -L -o "17-cross-ages-2.jpg" "https://pbs.twimg.com/media/G7goLIOXUAEIecz?format=jpg&name=medium"
+curl -L -o "17-cross-ages-3.jpg" "https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=medium"
+curl -L -o "17-cross-ages-4.jpg" "https://pbs.twimg.com/media/G7P2NKRWYAAQuEz?format=jpg&name=medium"
+curl -L -o "17-cross-ages-5.jpg" "https://pbs.twimg.com/media/G7P2EcbXwAAvwE6?format=jpg&name=medium"
+curl -L -o "17-cross-ages-6.jpg" "https://pbs.twimg.com/media/G7P2NKAdWUAART6-?format=jpg&name=medium"
+
+# Prompt 18: Cappuccino city (4 images)
+curl -L -o "18-cappuccino-1.jpg" "https://pbs.twimg.com/media/G69WHFDW4AAv0TK?format=jpg&name=medium"
+curl -L -o "18-cappuccino-2.jpg" "https://pbs.twimg.com/media/G69WJkjWsAApkIu?format=jpg&name=medium"
+curl -L -o "18-cappuccino-3.jpg" "https://pbs.twimg.com/media/G69WJi3WkAAhV31?format=jpg&name=medium"
+curl -L -o "18-cappuccino-4.jpg" "https://pbs.twimg.com/media/G69WJjdWQAAxQFg?format=jpg&name=medium"
+
+# Prompt 19: LED display (need to check)
+# Check this prompt by visiting the URL

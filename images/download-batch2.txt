@@ -1,0 +1,47 @@
+# Prompt 11: Mix-era painting (6 images)
+curl -L -o "11-mix-era-1.jpg" "https://pbs.twimg.com/media/G6RCuOBXMAAdil?format=jpg&name=medium"
+curl -L -o "11-mix-era-2.jpg" "https://pbs.twimg.com/media/G6TCLouWIAAucBN?format=jpg&name=medium"
+curl -L -o "11-mix-era-3.jpg" "https://pbs.twimg.com/media/G6auZBVa8AA5FLz?format=jpg&name=medium"
+curl -L -o "11-mix-era-4.jpg" "https://pbs.twimg.com/media/G6atJW8awAAd99J?format=jpg&name=medium"
+curl -L -o "11-mix-era-5.jpg" "https://pbs.twimg.com/media/G6atJW8awAAd99J?format=jpg&name=medium"
+
+# Prompt 12: Comic to human (6 images)
+curl -L -o "12-comic-1.jpg" "https://pbs.twimg.com/media/G7Q1z6SWwAAdgAx?format=jpg&name=small"
+curl -L -o "12-comic-2.jpg" "https://pbs.twimg.com/media/G7Q13IJXoAA-WEk?format=jpg&name=small"
+curl -L -o "12-comic-3.jpg" "https://pbs.twimg.com/media/G7Q3pPFXcAA0IOX?format=jpg&name=small"
+curl -L -o "12-comic-4.jpg" "https://pbs.twimg.com/media/G7Q_YcOaYAA48TM?format=jpg&name=small"
+curl -L -o "12-comic-5.jpg" "https://pbs.twimg.com/media/G7Q_XHYa4AAKwCw?format=jpg&name=medium"
+curl -L -o "12-comic-6.jpg" "https://pbs.twimg.com/media/G7Q_Z0eboAAJmG_?format=jpg&name=medium"
+curl -L -o "12-comic-7.jpg" "https://pbs.twimg.com/media/G7Q_ViybEAAdeGj?format=jpg&name=medium"
+curl -L -o "12-comic-8.jpg" "https://pbs.twimg.com/media/G7Q_ViybEAAdeGj?format=jpg&name=large"
+
+# Prompt 13: Hand-drawn card (6 images)
+curl -L -o "13-hand-drawn-1.jpg" "https://pbs.twimg.com/media/G7RLpGbW8AEDqyA?format=jpg&name=large"
+curl -L -o "13-hand-drawn-2.jpg" "https://pbs.twimg.com/media/G6Q-oMuWkAAgOQr?format=jpg&name=large"
+
+# Prompt 14: Stock scene (6 images)
+curl -L -o "14-stock-scene-1.jpg" "https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=small"
+curl -L -o "14-stock-scene-2.jpg" "https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=small"
+curl -L -o "14-stock-scene-3.jpg" "https://pbs.twimg.com/media/G7RvrS7WYAAtckM?format=jpg&name=small"
+curl -L -o "14-stock-scene-4.jpg" "https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ?format=jpg&name=small"
+curl -L -o "14-stock-scene-5.jpg" "https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=small"
+curl -L -o "14-stock-scene-6.jpg" "https://pbs.twimg.com/media/G7P2KAdWUAART6-?format=jpg&name=small"
+
+# Prompt 15: Tarot reading (6 images)
+curl -L -o "15-tarot-1.jpg" "https://pbs.twimg.com/media/G7XnSI3WwAAK6gB?format=jpg&name=medium"
+curl -L -o "15-tarot-2.jpg" "https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=small"
+curl -L -o "15-tarot-3.jpg" "https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=small"
+curl -L -o "15-tarot-4.jpg" "https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=small"
+curl -L -o "15-tarot-5.jpg" "https://pbs.twimg.com/media/G7P2NKRWYAAQuEz?format=jpg&name=small"
+curl -L -o "15-tarot-6.jpg" "https://pbs.twimg.com/media/G7P2EcbXwAAvwE6?format=jpg&name=small"
+
+# Prompt 16: Portrait collage (6 images)
+curl -L -o "16-portrait-1.jpg" "https://pbs.twimg.com/media/G7dzYjAXMAA_msh?format=jpg&name=medium"
+curl -L -o "16-portrait-2.jpg" "https://pbs.twimg.com/media/G7XnSI3WwAAK6gB?format=jpg&name=medium"
+curl -L -o "16-portrait-3.jpg" "https://pbs.twimg.com/media/G7XnSI3WkAAK6gB?format=jpg&name=medium"
+curl -L -o "16-portrait-4.jpg" "https://pbs.twimg.com/media/G7iK-a8bEAAWGpb?format=jpg&name=medium"
+curl -L -o "16-portrait-5.jpg" "https://pbs.twimg.com/media/G7iK-a8bEAAWGpb?format=jpg&name=medium"
+curl -L -o "16-portrait-6.jpg" "https://pbs.twimg.com/media/G7goLIOXUAEIecz?format=jpg&name=medium"
+
+# Prompt 17: Cross ages (need to check)
+curl -L -o "17-cross-ages-check.txt" "https://x.com/dotey/status/1997406273747210650"
