@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcfa27021d2e93de",
+            "id": "8feba0b460feec85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian-Git-配置指南1112.md",
+                "file": "Claude Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian-Git-配置指南1112"
+              "title": "Claude Skills"
             }
           }
         ]
@@ -196,9 +196,11 @@
   },
   "active": "500781cae5ba4ab0",
   "lastOpenFiles": [
+    "测试笔记.md",
+    "Claude Skills.md",
+    "AI",
+    "Obsidian-Git-配置指南11123.md",
     "Pasted image 20260117153352.png",
-    "x-posts/@AlchainHust-2026-01-09.md",
-    "Obsidian-Git-配置指南1112.md",
-    "测试笔记.md"
+    "x-posts/@AlchainHust-2026-01-09.md"
   ]
 }
