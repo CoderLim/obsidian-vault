@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d01f3ca18676f8d5",
+        "id": "1322936f6b722cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3f50b533483af8",
+            "id": "baea204a80c26349",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea3f50b533483af8",
+  "active": "baea204a80c26349",
   "lastOpenFiles": [
+    "宝玉的 nano banana 提示词.md",
+    "Claude Skills.md",
     "images/18-cappuccino-4.jpg",
     "images/18-cappuccino-3.jpg",
     "images/18-cappuccino-2.jpg",
@@ -208,8 +210,6 @@
     "images/17-cross-ages-1.jpg",
     "images/download-batch3.txt",
     "images/17-cross-ages-check.txt",
-    "images/16-portrait-6.jpg",
-    "宝玉的 nano banana 提示词.md",
     "images/download-batch2.txt",
     "images/batch-download.sh",
     "images/G6mz9CeaoAAVYXC",
@@ -218,7 +218,6 @@
     "images/G6ac3vXXwAAf2oF",
     "images/G6ZOMb_WEAAVKF6",
     "images/G6aa9VgWcAAklY6",
-    "Claude Skills.md",
     "测试笔记.md",
     "Obsidian-Git-配置指南11123.md",
     "x-posts/@AlchainHust-2026-01-09.md"
