@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f893ab175005e2",
+        "id": "e214899d8d2d1ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "8feba0b460feec85",
+            "id": "cfdea641ddc248c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,18 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8feba0b460feec85",
+  "active": "cfdea641ddc248c1",
   "lastOpenFiles": [
-    "images/3-天气卡片3.jpg",
-    "images/2-天气卡片2.jpg",
-    "images/1-天气卡片.jpg",
-    "images",
-    "Claude Skills.md",
+    "images/weather-card-4.jpg",
+    "images/weather-card-3.jpg",
+    "images/weather-card-2.jpg",
+    "images/weather-card-1.jpg",
+    "images/cartoon-infographic-2.jpg",
+    "images/cartoon-infographic-1.jpg",
     "宝玉的 nano banana 提示词.md",
+    "Claude Skills.md",
+    "images/2-卡通信息图.jpg",
+    "images/1-卡通信息图.jpg",
+    "images/4-天气卡片4.jpg",
+    "images/3-天气卡片3.jpg",
+    "images",
     "测试笔记.md",
     "AI",
     "Obsidian-Git-配置指南11123.md",
-    "Pasted image 20260117153352.png",
     "x-posts/@AlchainHust-2026-01-09.md"
   ]
 }

@@ -24,7 +24,13 @@ Display a prominent weather icon at top-center, with date (x-small text) and tem
 City name: 【上海】
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1993729800922341810)
+**效果图**：
+```
+![[images/weather-card-1.jpg]]
+![[images/weather-card-2.jpg]]
+![[images/weather-card-3.jpg]]
+![[images/weather-card-4.jpg]]
+```
 
 ---
 
@@ -51,7 +57,11 @@ Please create a cartoon-style infographic based on the provided content, followi
 Please use nano banana pro to create illustration based on input provided.
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1993567848564686926)
+**效果图**：
+```
+![1-卡通信息图](images/1-卡通信息图.jpg)
+![2-卡通信息图](images/2-卡通信息图.jpg)
+```
 
 ---
 
