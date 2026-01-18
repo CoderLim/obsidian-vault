@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Skills.md",
+                "file": "宝玉的 nano banana 提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Skills"
+              "title": "宝玉的 nano banana 提示词"
             }
           }
         ]
@@ -194,10 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "500781cae5ba4ab0",
+  "active": "8feba0b460feec85",
   "lastOpenFiles": [
-    "测试笔记.md",
+    "images/3-天气卡片3.jpg",
+    "images/2-天气卡片2.jpg",
+    "images/1-天气卡片.jpg",
+    "images",
     "Claude Skills.md",
+    "宝玉的 nano banana 提示词.md",
+    "测试笔记.md",
     "AI",
     "Obsidian-Git-配置指南11123.md",
     "Pasted image 20260117153352.png",
