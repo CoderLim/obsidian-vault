@@ -25,12 +25,10 @@ City name: 【上海】
 ```
 
 **效果图**：
-```
 ![[images/weather-card-1.jpg]]
 ![[images/weather-card-2.jpg]]
 ![[images/weather-card-3.jpg]]
 ![[images/weather-card-4.jpg]]
-```
 
 ---
 
@@ -58,10 +56,8 @@ Please use nano banana pro to create illustration based on input provided.
 ```
 
 **效果图**：
-```
-![1-卡通信息图](images/1-卡通信息图.jpg)
-![2-卡通信息图](images/2-卡通信息图.jpg)
-```
+![[images/cartoon-infographic-1.jpg]]
+![[images/cartoon-infographic-2.jpg]]
 
 ---
 
