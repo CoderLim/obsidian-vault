@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1322936f6b722cfe",
+        "id": "1f0ff4a82b2bda68",
         "type": "tabs",
         "children": [
           {
-            "id": "baea204a80c26349",
+            "id": "0b9e16b1cce9df66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baea204a80c26349",
+  "active": "0b9e16b1cce9df66",
   "lastOpenFiles": [
     "宝玉的 nano banana 提示词.md",
     "Claude Skills.md",
