@@ -83,7 +83,10 @@ Scene description:
 referencing the attached image or [A unicorn strolling across a grassy meadow in a forest, under bright sunshine with blue skies and fluffy white clouds.]
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1996046180787065233)
+**效果图**：![[images/3-coloring-1.jpg]]
+![[images/3-coloring-2.jpg]]
+![[images/3-coloring-3.jpg]]
+![[images/3-coloring-4.jpg]]
 
 ---
 
@@ -104,7 +107,8 @@ Based on you know about me, generate a 3D isometric colored illustration of me w
 [Additional details: a bichon frise and 3 monitors]
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1995944319677554985)
+**效果图**：![[images/4-home-office-1.jpg]]
+![[images/4-home-office-2.jpg]]
 
 ---
 
@@ -134,7 +138,12 @@ Displayed in this exact order:
 - Follow count (small number)
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1995633652139442373)
+**效果图**：![[images/5-cyber-1.jpg]]
+![[images/5-cyber-2.jpg]]
+![[images/5-cyber-3.jpg]]
+![[images/5-cyber-4.jpg]]
+![[images/5-cyber-5.jpg]]
+![[images/5-cyber-6.jpg]]
 
 ---
 
@@ -155,7 +164,15 @@ nano banana prompt
 Brand name: Starbucks
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1995190286775881780)
+**效果图**：![[images/6-chibi-1.jpg]]
+![[images/6-chibi-2.jpg]]
+![[images/6-chibi-3.jpg]]
+![[images/6-chibi-4.jpg]]
+![[images/6-chibi-5.jpg]]
+![[images/6-chibi-6.jpg]]
+![[images/6-chibi-7.jpg]]
+![[images/6-chibi-8.jpg]]
+![[images/6-chibi-9.jpg]]
 
 ---
 
@@ -182,7 +199,11 @@ I. Main Scene: Travel-Journal Style Route Map
 In the center of the illustration, draw a "winding, zigzagging travel route" with arrows and dotted lines connecting multiple locations. The route should...
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1994908289813880915)
+**效果图**：![[images/7-travel-1.jpg]]
+![[images/7-travel-2.jpg]]
+![[images/7-travel-3.jpg]]
+![[images/7-travel-4.jpg]]
+![[images/7-travel-5.jpg]]
 
 ---
 
@@ -213,7 +234,8 @@ In the center of the illustration, draw a "winding, zigzagging travel route" wit
 - 背景简单，突出主体
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1994311203972112653)
+**效果图**：![[images/8-comic-1.jpg]]
+![[images/8-comic-2.jpg]]
 
 ---
 
@@ -239,7 +261,11 @@ Illustration Requirements:
 ...
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1993754650336428422)
+**效果图**：![[images/9-calendar-1.jpg]]
+![[images/9-calendar-2.jpg]]
+![[images/9-calendar-3.jpg]]
+![[images/9-calendar-4.jpg]]
+![[images/9-calendar-5.jpg]]
 
 ---
 
@@ -258,7 +284,12 @@ She is eating a vanilla ice cream cone held in her right hand. In her left hand,
 In the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
 ```
 
-**效果图**：[查看原推文](https://x.com/dotey/status/1992450418291466517)
+**效果图**：![[images/10-gongbi-1.jpg]]
+![[images/10-gongbi-2.jpg]]
+![[images/10-gongbi-3.jpg]]
+![[images/10-gongbi-4.jpg]]
+![[images/10-gongbi-5.jpg]]
+![[images/10-gongbi-6.jpg]]
 
 ---
 
