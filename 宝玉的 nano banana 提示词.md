@@ -139,11 +139,6 @@ Displayed in this exact order:
 ```
 
 **效果图**：![[images/5-cyber-1.jpg]]
-![[images/5-cyber-2.jpg]]
-![[images/5-cyber-3.jpg]]
-![[images/5-cyber-4.jpg]]
-![[images/5-cyber-5.jpg]]
-![[images/5-cyber-6.jpg]]
 
 ---
 
@@ -202,8 +197,6 @@ In the center of the illustration, draw a "winding, zigzagging travel route" wit
 **效果图**：![[images/7-travel-1.jpg]]
 ![[images/7-travel-2.jpg]]
 ![[images/7-travel-3.jpg]]
-![[images/7-travel-4.jpg]]
-![[images/7-travel-5.jpg]]
 
 ---
 
