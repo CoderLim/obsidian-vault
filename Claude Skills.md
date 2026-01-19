@@ -4,8 +4,10 @@
 * [Anthropics/Skills](https://github.com/anthropics/skills)
 # 创作者
 * [发布MD到X](https://github.com/wshuyi/x-article-publisher-skill)
+* [notebooklm skill](https://github.com/PleasePrompto/notebooklm-skill)
 
 # 效率
+[planning with files](https://github.com/OthmanAdi/planning-with-files)
 
 
 # 可视化
