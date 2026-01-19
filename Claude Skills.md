@@ -7,8 +7,8 @@
 * [notebooklm skill](https://github.com/PleasePrompto/notebooklm-skill)
 
 # 效率
-[planning with files](https://github.com/OthmanAdi/planning-with-files)
-
+* [planning with files](https://github.com/OthmanAdi/planning-with-files)
+* [obsidian skills](https://github.com/kepano/obsidian-skills)
 
 # 可视化
 * [关系图谱生成](https://github.com/wshuyi/research-to-diagram)
