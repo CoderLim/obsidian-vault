@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude Skills.md",
+                "file": "游戏关键词调研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Skills"
+              "title": "游戏关键词调研"
+            }
+          },
+          {
+            "id": "d92119c155ce9c78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58dc6de025917db1",
+  "active": "d92119c155ce9c78",
   "lastOpenFiles": [
+    "Claude Skills.md",
     "宝玉的 nano banana 提示词.md",
     "游戏关键词调研.md",
-    "Claude Skills.md",
     "images/18-cappuccino-4.jpg",
     "images/18-cappuccino-3.jpg",
     "images/18-cappuccino-2.jpg",
