@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归藏的提示词.md",
+                "file": "Claude Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "归藏的提示词"
+              "title": "Claude Skills"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "18dfe6b7307a6901",
   "lastOpenFiles": [
-    "images/Pasted image 20260124225035.png",
-    "归藏的提示词.md",
-    "Claude Skills.md",
     "宝玉的 nano banana 提示词.md",
+    "归藏的提示词.md",
+    "images/Pasted image 20260124225035.png",
+    "Claude Skills.md",
     "Pasted image 20260124225108.png",
     "Pasted image 20260124225038.png",
     "游戏关键词调研.md",

@@ -1,4 +1,4 @@
-# 宝玉的 nano banana 提示词
+
 
 > 来源：https://x.com/dotey/status/1996285439867556304
 > 整理时间：2026-01-18

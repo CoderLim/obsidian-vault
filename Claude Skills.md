@@ -11,7 +11,8 @@
 
 # 可视化
 * [关系图谱生成](https://github.com/wshuyi/research-to-diagram)
-* [Document-illustrator-skill](https://github.com/op7418/Document-illustrator-skill)![[Pasted image 20260124225035.png]]
+* [Document-illustrator-skill](https://github.com/op7418/Document-illustrator-skill)
+![[Pasted image 20260124225035.png]]
 * 
 
 ## 集合
