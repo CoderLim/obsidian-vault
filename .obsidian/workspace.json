@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "提示词资源.md",
+                "file": "Claude Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词资源"
+              "title": "Claude Skills"
             }
           }
         ],
@@ -226,6 +226,7 @@
   "active": "500781cae5ba4ab0",
   "lastOpenFiles": [
     "Claude Skills.md",
+    "images/Pasted image 20260125214121.png",
     "提示词资源.md",
     "宝玉的 nano banana 提示词.md",
     "归藏的提示词.md",
@@ -239,7 +240,6 @@
     "images/18-cappuccino-1.jpg",
     "images/17-cross-ages-6.jpg",
     "images/17-cross-ages-5.jpg",
-    "images/17-cross-ages-4.jpg",
     "images/download-batch3.txt",
     "images/17-cross-ages-check.txt",
     "images/download-batch2.txt",
