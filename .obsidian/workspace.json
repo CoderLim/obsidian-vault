@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于 AI 的杂记.md",
+                "file": "AI 杂记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于 AI 的杂记"
+              "title": "AI 杂记"
             }
           }
         ],
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49fdea0e1ac1dc0e",
+  "active": "66fd304ec41c7d7d",
   "lastOpenFiles": [
     "images/Pasted image 20260125214121.png",
-    "关于 AI 的杂记.md",
+    "AI 杂记.md",
     "Claude Skills.md",
     "提示词资源.md",
     "宝玉的 nano banana 提示词.md",
