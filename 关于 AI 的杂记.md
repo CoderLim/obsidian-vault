@@ -1,9 +1,20 @@
 
 # 2026 年
 ## 1月25号
-这两天找了不少多 agent 的文章，想要享受一下包工头的感觉，让这些 agent 自己干活，我等着验收就行了。
-多个 agent 包括：builder、rewiewer、code-sim效果并没有这么好，假如涉及到多 agent，除非是 claude code 自动创建的subagent，否则你需要保证几个 agent 的协同，agent 如何协作、如何协调节奏、如何通信等，如果每个任务都能快速完成，就不需要多 agent 了。
-后来想了想，目前 agent 并不能自主完成编码，即使有 reviewer agent 等，还是需要一定程度的人工介入，之前想用多 agent 解放双手似乎是一场梦，突然就被打回了现实。
+这两天找了不少多 agent 的文章，想要享受一下包工头的感觉，启动多个 agent：builder、rewiewer、code-simpler、bug-fixer 等，让这些 agent 自己干活，我等着验收就行了。
+
+研究了两天发现效果并没有那么理想。假如涉及到多 agent，除非是 claude code 自动创建的subagent，否则你需要保证几个 agent 的协同，agent 如何协作、如何协调节奏、如何通信等。
+
+如果每个任务都能快速完成，就不需要多 agent 了。比如 builder 写完代码，我才需要 reviewer，那我告诉 agent 这个流程不久行了吗？为什么还要多 agent。
+
+后来想了想，目前 agent 也不能自主完成编码，即使有 reviewer agent 等，还是需要一定程度的人工介入，之前想用多 agent 解放双手似乎是一场梦，突然就被打回了现实。
+
+## 1月24号
+同事：rules 和 skills 的区别是什么？我写了个 skills，感觉放到 rules 里也是一样的；
+
+我说：嗯，都是提示词。不过从能力上看，貌似确实没啥区别，都是提示词，但是从大模型的视角看还是有区别的，skills 支持渐进式加载、执行脚本的，我觉得它是可复用的经验。
+
+同事：rules 也能执行脚本
 
 ## 1月23号
 最近后端已经开始使用 Spec Coding，通过公司内的 block 平台搭建流水线，据说效果非常好，有的同学已经几个月不写代码了，主要是 vibe coding；
